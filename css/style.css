@@ -17,3 +17,32 @@ a {
     width: 30px;
     margin: 15px;
 }
+
+.header{
+    display: flex;
+    justify-content: center;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer{
+    display: flex;
+    justify-content:space-between;
+}
+.thumbnail{
+    display: flex;
+    justify-content:space-around;
+}
+.aboutMain{
+    display:flex;
+    justify-content:space-around;
+   
+}
+
+.leftPane{
+   font-family: 'Raleway', sans-serif;
+
+}
