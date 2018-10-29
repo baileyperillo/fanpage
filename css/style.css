@@ -4,6 +4,8 @@ html {
 
 body {
     height: 100%;
+    background-color: #0B124E;
+    color:green;
     
 }
 a {
@@ -32,17 +34,32 @@ a {
     display: flex;
     justify-content:space-between;
 }
-.thumbnail{
+.gallery{
     display: flex;
-    justify-content:space-around;
+    justify-content:flex-start;
+    flex-wrap:wrap;
+  
+
+   
+}
+
+
+.thumbnail{
+    width:30%;
+    height:50%;
+    margin:10%;
+}
+.thumbnail-image{
+    height:300px;
+    width:200px;
 }
 .aboutMain{
     display:flex;
     justify-content:space-around;
-   
+  
 }
 
 .leftPane{
    font-family: 'Raleway', sans-serif;
-
+   color:#D31118;
 }
