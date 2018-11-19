@@ -14,6 +14,7 @@ a {
 
 .main {
     height: 100%;
+    background-image:url("http://cdn1.sciencefiction.com/wp-content/uploads/2018/08/arrowverse-1024x576.jpg");
 }
 .social-image{
     width: 30px;
@@ -23,6 +24,7 @@ a {
 .header{
     display: flex;
     justify-content: center;
+    font-family:font-family: 'Bangers', cursive;
 }
 
 .navbar{
@@ -61,5 +63,5 @@ a {
 
 .leftPane{
    font-family: 'Raleway', sans-serif;
-   color:#D31118;
+   color:white;
 }
