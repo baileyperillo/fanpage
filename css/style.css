@@ -24,7 +24,7 @@ a {
 .header{
     display: flex;
     justify-content: center;
-    font-family:font-family: 'Bangers', cursive;
+    font-family: 'Bangers', cursive;
 }
 
 .navbar{
