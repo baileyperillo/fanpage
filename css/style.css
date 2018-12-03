@@ -60,7 +60,9 @@ a {
 .thumbnail-image{
     height:400px;
     width:300px;
+    object-position: fill;
 }
+
 .aboutMain{
     display:flex;
     justify-content:space-around;
